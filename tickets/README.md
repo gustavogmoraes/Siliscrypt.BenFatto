@@ -11,3 +11,4 @@ Simple ticket tracking.
 Just create `.md` files with ticket info. Name them whatever makes sense.
 
 Example: `TR-001-login-testing.md`
+ 
