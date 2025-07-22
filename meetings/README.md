@@ -7,6 +7,7 @@ This folder contains all meeting documentation for the BenFatto/Thomson Reuters 
 Use the format: `YYYY-MM-DD_meeting-type_brief-description.md`
 
 Examples:
+
 - `2025-07-21_kickoff_project-initiation.md`
 - `2025-07-28_weekly-sync_status-update.md`
 - `2025-08-01_client-call_requirements-review.md`

@@ -1,80 +1,102 @@
 # Meeting Output Template
 
 **Meeting Date**: [YYYY-MM-DD]  
-**Client**: BenFatto/Thomson Reuters  
-**Participants**: [Names]  
-**Meeting Type**: [Kickoff/Status/Review/etc.]
+**Meeting Topic**: [Brief description]  
+**Key Attendees**: [Thomson Reuters contacts + internal team]  
+**Meeting Type**: [Training/KT/Status/Review/Requirements/etc.]
 
 ---
 
-## 🎯 Action Items for Alvaro
+## 🎯 Key Action Items for Alvaro
+
+### Priority Tasks (Do First)
+- [ ] [High priority task 1 - with specific technical details]
+- [ ] [High priority task 2 - with specific technical details]
+- [ ] [High priority task 3 - with specific technical details]
 
 ### New Testing Requirements
-- [ ] [Requirement 1 - with specific details]
-- [ ] [Requirement 2 - with specific details]
-- [ ] [Requirement 3 - with specific details]
+- [ ] [New requirement 1 - detailed scope and acceptance criteria]
+- [ ] [New requirement 2 - detailed scope and acceptance criteria]
+- [ ] [New requirement 3 - detailed scope and acceptance criteria]
 
 ### Changes to Existing Work
-- [ ] [Change 1 - what needs to be modified]
-- [ ] [Change 2 - what needs to be modified]
+- [ ] [Modification 1 - what needs to change and why]
+- [ ] [Modification 2 - what needs to change and why]
 
-### Testing Guidelines/Standards
-- **New standards to follow**: [Details]
-- **Tools to use**: [Specific tools mentioned]
-- **Environment changes**: [Any env updates]
-- **Reporting format**: [How client wants results]
+### Research/Investigation Tasks
+- [ ] [Investigation task 1 - what to research and document]
+- [ ] [Investigation task 2 - what to research and document]
 
 ---
 
-## 📋 Context You Need
+## 📋 Important Context for Alvaro
 
-### What Client Asked About
-[Questions they had about previous work - so you understand their concerns]
+### Meeting Background
+[Why this meeting happened - what triggered it, what problem we're solving]
 
-### Client Priorities
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
+### System/Environment Details
+- **System being tested**: [OGT, specific modules, etc.]
+- **Environment**: [Staging, prod, specific URLs/servers]
+- **Access/Credentials needed**: [Any new access requirements]
+- **Tools required**: [Specific testing tools mentioned]
 
-### Timeline Updates
-- **New deadlines**: [Any changes]
-- **Client expectations**: [What they're expecting when]
+### Technical Context You Need to Know
+[Technical background, system architecture details, how things connect, etc.]
+
+### Thomson Reuters Priorities Right Now
+1. [What they care about most]
+2. [Secondary priority]
+3. [Third priority]
+
+### What They're Worried About
+[Specific concerns, pain points, or issues they mentioned]
 
 ---
 
-## 🔍 Specific Instructions
+## 🔍 Detailed Instructions & Context
 
 ### For Current Tickets
-- **[Ticket ID]**: [Specific guidance for this ticket]
-- **[Ticket ID]**: [Specific guidance for this ticket]
+- **[Ticket/Area]**: [Specific guidance, context, or changes needed]
+- **[Ticket/Area]**: [Specific guidance, context, or changes needed]
 
-### New Test Scenarios
-[Any new scenarios client wants tested that weren't covered before]
+### New Testing Scenarios
+[Detailed scenarios Thomson Reuters wants tested - include expected outcomes]
 
-### Things to Focus On
-[What client is most concerned about - focus your testing here]
+### Things to Pay Special Attention To
+[Areas where Thomson Reuters has had issues before or are particularly sensitive]
+
+### Workflow/Process Notes
+[Any specific ways they want things done, reported, or documented]
 
 ---
 
-## 💬 Client Feedback on Previous Work
+## 💬 Key Takeaways from Meeting
 
-### What They Liked
-[Positive feedback - keep doing this]
+### What Thomson Reuters Liked
+[Positive feedback on previous work - keep doing this]
 
-### What Needs Improvement
-[Areas to improve - adjust your approach]
+### Areas for Improvement
+[Feedback on how to improve approach or deliverables]
 
 ### Questions They Had
-[Things they didn't understand - document better next time]
+[Things they asked about or didn't understand - document these better]
+
+### Concerns They Raised
+[Worries or issues they mentioned - address these proactively]
 
 ---
 
-## 📝 Notes for Next Meeting
+## � Timeline & Next Steps
 
-**When**: [Next meeting date]  
-**What I'll Present**: [What Gustavo will show them]  
-**What You Need to Prepare**: [Specific deliverables needed from you]
+**Your Deadline**: [When Alvaro needs to complete actions]  
+**Next Meeting**: [When/what it's about]  
+**What Gustavo Will Present**: [What deliverables Gustavo will show them]  
+**What You Need to Prepare**: [Specific outputs needed from Alvaro]  
+
+### Escalation Contacts
+- **Thomson Reuters**: [Primary contact for technical questions]
+- **Internal**: [BenFatto contact if needed]
 
 ---
 **Meeting documented by**: Gustavo  
-**Alvaro action by**: [Date when you need to start on this]
+**Action items due**: [Specific date when work should be completed]
